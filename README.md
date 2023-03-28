@@ -1,6 +1,8 @@
 ## CIDOO V65 QMK/VIA
 *WIP*
 
+MCU: AT32F415RBT7-7_128K
+
 Space+B or FN+R_SHIFT+R: to enter DFU(Device Firmware Upgrade) mode. Long press "Space" + "B" or FN+R_SHIFT+R and then plug in USB cable ultil FN LED flash to enter DFU mode.
 
 ### CLI
